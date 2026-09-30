@@ -1,8 +1,8 @@
-\# Beecrowd 1043 - Triângulo
+# Beecrowd 1043 - Triângulo
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,19 +10,19 @@ Este programa resolve o problema 1043 do Beecrowd.
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
-\- Java
+- Java
 
-\- NetBeans
+- NetBeans
 
-\- Maven
+- Maven
 
 
 
-\## Entrada
+## Entrada
 
 
 
@@ -30,7 +30,7 @@ A entrada contém três valores reais A, B e C.
 
 
 
-\## Saída
+## Saída
 
 
 
@@ -42,7 +42,7 @@ Caso contrário, apresenta a área do trapézio formado por A e B como bases e C
 
 
 
-\## Autor
+## Autor
 
 
 
